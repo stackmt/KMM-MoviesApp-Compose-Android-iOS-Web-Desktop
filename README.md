@@ -1,12 +1,5 @@
-⚠️🚧 This repository is under WIP ⚠️🚧
-###### Ongoing changes: 
-###### 1. Porting project to KMM to serve android, iOS and web platforms with common code
-###### 2. Project modularisation, separation of concerns, code and architecture cleanup
-###### 3. UI/UX improvements
-###### 4. Project Tour UI
 
-
-# Android Clean Architecture Sample App
+# Movies App - Android - Compose - Clean Architecture 
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 

@@ -6,7 +6,7 @@
 ###### 4. Project Tour UI
 
 
-# Android Clean Architecture Sample App
+# Movies App - Android - Compose - Clean Architecture 
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
